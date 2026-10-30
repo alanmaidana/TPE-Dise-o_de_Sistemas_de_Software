@@ -77,5 +77,3 @@ public class ViajesController implements ViajesApi {
 }
 
 ```
-
-De esta manera, el profesor que evalúe el TPE podrá verificar que el código Java es **trazable y consistente** con la arquitectura documentada.
