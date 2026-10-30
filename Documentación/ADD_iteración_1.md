@@ -15,7 +15,7 @@ Para satisfacer la necesidad de escalar partes del sistema de forma independient
 
 Se utilizará un **API Gateway** como punto de entrada unificado para clientes Web y Móviles, y comunicación asíncrona basada en eventos para tareas pesadas (como el procesamiento de correos y la analítica).
 
-> **Decisión Arquitectónica:** Ver [ADR-001: Selección del Estilo Arquitectónico](adr-001-estilo-arquitectonico.md) para el detalle de esta decisión.
+> **Decisión Arquitectónica:** Ver [ADR-001: Selección del Estilo Arquitectónico](ADR_001.md) para el detalle de esta decisión.
 
 ## 4. Elementos Instanciados y Asignación de Responsabilidades
 
