@@ -22,7 +22,7 @@ prototipo/
 │               └── trotamundos/
 │                   ├── api/             # Controladores REST
 │                   ├── estrategia/      # Implementación del Patrón Strategy
-│                   └── TrotamundosApplication.java # Clase de arranque
-                    ├── chatbot/
+│                   ├── TrotamundosApplication.java # Clase de arranque
+│                   └── chatbot/
 ├── pom.xml                              # Configuración de Maven y dependencias
 └── README.md
